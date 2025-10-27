@@ -38,6 +38,6 @@ Ce plugin  ne possède aucune dépendances. :
 
 🔗 **Télécharger [EC] Ano :https://github.com/ec0074/-EC-Ano/tree/main
 
-⬇️Signaler bug,amelioration, demande utilisation pluging:
+⬇️Signaler bug,amelioration, demande utilisation plugin:
 
 https://discord.gg/TmwAvJdbN4
