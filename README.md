@@ -14,7 +14,7 @@ La couleur du message.
 📖✦ Conditions d’utilisation
 
 
-Une validation est nécessaire pour l'utilisation de ce pluging sur un serveur communautaire.(voir github)
+Une validation est nécessaire pour l'utilisation de ce pluging sur un serveur communautaire.(voir discord)
 Le code source de ce plugin est privé.
 
 Interdiction de décompiler ce plugin
@@ -35,5 +35,8 @@ Dépendances :
 Ce plugin possède ne possède aucune dépendances. : 
 
 
-🔗 **Télécharger [EC] Ano : [Cliquez Ici]()
-Demande utilisation : https://discord.gg/TmwAvJdbN4
+🔗 **Télécharger [EC] Ano :https://github.com/ec0074/-EC-Ano/tree/main
+
+⬇️Signaler bug,amelioration, demande utilisation pluging:
+
+https://discord.gg/TmwAvJdbN4
