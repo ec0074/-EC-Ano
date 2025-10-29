@@ -3,12 +3,15 @@
 
 ⚙️✦ Fonction
 
-[EC] Ano permet, via la commande </ano <message> >à un joueur d’envoyer son message en anonyme dans le chat  
+[EC] Ano permet, via la commande </ano <message> >à un joueur d’envoyer son message en anonyme dans le chat.
+Système de logs tout les messages et informations des joueurs ayant utilisé la commande seront inscrits dans un fichier "EC_ano_logs.txt".
 
 Elements configurables via fichier config: 
 Temps entre deux messages (par joueur) permet d’éviter le spam. 
 Le prix du message. 
 La couleur du message.
+
+
 
 
 📖✦ Conditions d’utilisation
